@@ -1,0 +1,3 @@
+1412345678|@|Testi|@|Viesti tulee|@|Testi,Joku,Hep|@|
+1412413456|@|Toinenkin|@|Lisämateriaalia|@|Muu,Tagi|@|
+1413414567|@|Uusi|@|Viesti tulee perille|@|Hopi,Jees|@|
